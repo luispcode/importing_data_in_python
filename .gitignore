@@ -1,0 +1,14 @@
+*.pdf
+*.json
+*.png
+*.jpg
+*.xls
+*.xlsx
+*.mat
+*.dta
+*.csv
+*.sas7bdat
+*.sqlite
+*.hdf5
+seaslug.txt
+tweets3.txt
